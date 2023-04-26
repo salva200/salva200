@@ -1,9 +1,8 @@
-<h1 align="center">Hi <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="25">, I'm Salvador Diaz</h1>
-<h3 align="center">A Jr. Developer from Uruguay</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Open+Sans&weight=600&size=26&duration=4000&pause=1000&color=00B5FF&center=true&vCenter=true&width=500&height=60&lines=Salvador+Diaz;Web+developer)](https://git.io/typing-svg)
+
 <img align="right" alt="Coding" width="100" src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif">
 
-- 🔭 I’m currently working at **TCS**
-- 🌱 I’m currently learning **React and NodeJS**
+Currently working at **Netuy**.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
