@@ -19,7 +19,7 @@ Currently working at **Netuy**.
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sl4dex&show_icons=true&locale=en&layout=compact&size_weight=0.5&count_weight=0.5" alt="sl4dex" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=salvador-diaz&show_icons=true&locale=en&layout=compact&size_weight=0.5&count_weight=0.5" alt="salvador-diaz" /></p>
 <br>
 
 **Connect with me**   
