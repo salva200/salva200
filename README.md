@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Open+Sans&weight=600&size=26&duration=4000&pause=900&color=00B5FF&center=true&vCenter=true&width=500&height=60&lines=Salva;Web+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Open+Sans&weight=600&size=26&duration=4000&pause=750&color=00B5FF&center=true&vCenter=true&width=500&height=60&lines=Salva;Web+developer)](https://git.io/typing-svg)
 
 <img align="right" alt="Coding" width="100" src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif">
 
@@ -19,6 +19,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=salvador-diaz&show_icons=true&locale=en&layout=compact&size_weight=0.5&count_weight=0.5" alt="salvador-diaz" /></p>
 <br>
-
-**Connect with me**   
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/salvador-d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/salvador-d" height="15" width="15" /></a>
